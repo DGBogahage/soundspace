@@ -7,7 +7,7 @@ const products = [
     type: "acoustic-guitar",
     price: 2500,
     unit: "day",
-    image:"/images/images1.jpg",
+    image:"public/images/images1.jpg",
     description: "A versatile acoustic guitar for practice and live performances.",
   },
   {
@@ -16,8 +16,7 @@ const products = [
     category: "Musical Instruments",
     price: 3500 ,
     unit: "day",
-    image:
-      "/images/electic.jpg",
+    image:"public/images/electic.jpg",
     description: "An electric guitar for bands, rehearsals, and stage performances.",
   },
   {
@@ -27,7 +26,7 @@ const products = [
     price: 15000,
     unit: "day",
     image:
-      "/images/sounds.jpg",
+      "public/images/sounds.jpg",
     description: "A powerful speaker for parties, events, and live sound.",
   },
   {
@@ -37,7 +36,7 @@ const products = [
     price: 2000,
     unit: "day",
     image:
-      "/images/mic.jpg",
+      "public/images/mic.jpg",
     description: "A microphone for vocals, recordings, and presentations.",
   },
   {
@@ -47,7 +46,7 @@ const products = [
     price: 7500,
     unit: "day",
     image:
-      "/images/pioneer-dj-controller.jpg",
+      "public/images/pioneer-dj-controller.jpg",
     description: "DJ equipment for parties, celebrations, and live events.",
   }, 
   {
@@ -57,7 +56,7 @@ const products = [
     price: 10000,
     unit: "day",
     image:
-      "/images/images.jpg",
+      "public/images/images.jpg",
     description: "Lighting to create atmosphere for performances and events.",
   },
   {
@@ -67,7 +66,7 @@ const products = [
   type: "acoustic-guitar",
   price: 4000,
   unit: "day",
-  image: "/images/fga.webp",
+  image: "public/images/fga.webp",
   description: "An acoustic guitar suitable for practice and live performances.",
 },
 {
@@ -77,7 +76,7 @@ const products = [
   type: "acoustic-guitar",
   price: 2500,
   unit: "day",
-  image: "/images/fs400.webp",
+  image: "public/images/fs400.webp",
   description: "An affordable acoustic guitar for beginners and practice.",
 },
 
@@ -87,7 +86,7 @@ const products = [
     category: "Musical Instruments",
     price: 9000,
     unit: "day",
-    image: "/images/drum.jpg",
+    image: "public/images/drum.jpg",
     description: "Professional drum set suitable for live performances, rehearsals, and studio sessions.",
   },
 
